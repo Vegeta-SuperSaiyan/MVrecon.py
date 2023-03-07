@@ -5,7 +5,7 @@ This is a Python script for conducting network reconnaissance on a target IP or 
 
 Usage
 To use the script, run it from the command line with the target IP or URL as the first argument:
-python3 network_recon.py <IP/URL>
+python3 MVrecon.py <IP/URL>
 
 The script will run the following scans:
 -NMAP version, port, and script scan
