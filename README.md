@@ -3,7 +3,7 @@
 Network Reconnaissance Script
 This is a Python script for conducting network reconnaissance on a target IP or URL. The script runs several scans and outputs the results to separate CSV files, which are then combined into a single results file.
 
-Usage
+**Usage**
 To use the script, run it from the command line with the target IP or URL as the first argument:
 python3 MVrecon.py <IP/URL>
 
@@ -20,7 +20,7 @@ The script will run the following scans:
 
 The results of each scan will be output to a separate CSV file, and the final results will be combined into a single file named ScanResults.csv.
 
-Installation
+**Installation**
 To use the script, you will need to have Python 3 installed on your system. You can download Python 3 from the official website.
 
 You will also need to install the following packages:
